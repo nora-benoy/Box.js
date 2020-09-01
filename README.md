@@ -1,1 +1,1 @@
-# Box.js
+# Box Class
